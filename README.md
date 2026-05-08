@@ -1,2 +1,2 @@
 # materials-ml-stability
-This project extends ML modeling to thermodynamic stability, a key quantity in materials design
+Machine Learning Prediction of Materials Stability using Materials Project Data
